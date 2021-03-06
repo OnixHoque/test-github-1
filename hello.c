@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+int function1()
+{
+	
+}
 
 int main()
 {
