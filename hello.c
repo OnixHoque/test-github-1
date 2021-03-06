@@ -2,7 +2,7 @@
 
 int function1()
 {
-	
+	printf("This is function1");
 }
 
 int main()
